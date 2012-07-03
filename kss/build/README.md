@@ -15,6 +15,8 @@
       foobar
 -----
 
+<div style='color:red'>foobar</div>
+
 
 * 0
 
